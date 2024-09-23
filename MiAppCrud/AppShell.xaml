@@ -3,13 +3,28 @@
     x:Class="MiAppCrud.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:MiAppCrud"
+    xmlns:local="clr-namespace:MiAppCrud.Views"
     Shell.FlyoutBehavior="Disabled"
     Title="MiAppCrud">
+    
+    
+    <TabBar>
+        <Tab Title="Productos">
+            <ShellContent ContentTemplate="{DataTemplate local:ProductoListPage}" />
+        </Tab>
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        <Tab Title="Categorías">
+            <ShellContent ContentTemplate="{DataTemplate local:CategoriaListPage}" />
+        </Tab>
+
+        <Tab Title="Proveedores">
+            <ShellContent ContentTemplate="{DataTemplate local:ProveedorListPage}" />
+        </Tab>
+
+        <Tab Title="Órdenes">
+            <ShellContent ContentTemplate="{DataTemplate local:OrdenListPage}" />
+        </Tab>
+    </TabBar>
+
 
 </Shell>

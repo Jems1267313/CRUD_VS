@@ -1,1 +1,1 @@
-E:\VisualStudioProyectos\MiAppCrud\MiAppCrud\MiAppCrud.csproj;x64
+E:\VisualStudioProyectos\CRUD_VS\CRUD_VS\MiAppCrud\MiAppCrud.csproj;x64

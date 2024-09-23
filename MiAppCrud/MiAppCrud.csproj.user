@@ -12,10 +12,22 @@
     <MauiXaml Update="Views\CategoriaListPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\OrdenEditPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\OrdenListPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\ProductoEditPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Views\ProductoListPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\ProveedorEditPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\ProveedorListPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

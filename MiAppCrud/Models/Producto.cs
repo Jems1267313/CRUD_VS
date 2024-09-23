@@ -16,6 +16,10 @@ namespace MiAppCrud.Models
 
         // Relación con Categoría
         public int CategoriaId { get; set; }
+
+        // Relación con Proveedor
+        public int ProveedorId { get; set; }
+
     }
 
 }

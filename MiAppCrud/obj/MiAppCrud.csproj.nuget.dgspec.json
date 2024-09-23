@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VisualStudioProyectos\\MiAppCrud\\MiAppCrud\\MiAppCrud.csproj": {}
+    "E:\\VisualStudioProyectos\\CRUD_VS\\CRUD_VS\\MiAppCrud\\MiAppCrud.csproj": {}
   },
   "projects": {
-    "E:\\VisualStudioProyectos\\MiAppCrud\\MiAppCrud\\MiAppCrud.csproj": {
+    "E:\\VisualStudioProyectos\\CRUD_VS\\CRUD_VS\\MiAppCrud\\MiAppCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VisualStudioProyectos\\MiAppCrud\\MiAppCrud\\MiAppCrud.csproj",
+        "projectUniqueName": "E:\\VisualStudioProyectos\\CRUD_VS\\CRUD_VS\\MiAppCrud\\MiAppCrud.csproj",
         "projectName": "MiAppCrud",
-        "projectPath": "E:\\VisualStudioProyectos\\MiAppCrud\\MiAppCrud\\MiAppCrud.csproj",
+        "projectPath": "E:\\VisualStudioProyectos\\CRUD_VS\\CRUD_VS\\MiAppCrud\\MiAppCrud.csproj",
         "packagesPath": "C:\\Users\\megam\\.nuget\\packages\\",
-        "outputPath": "E:\\VisualStudioProyectos\\MiAppCrud\\MiAppCrud\\obj\\",
+        "outputPath": "E:\\VisualStudioProyectos\\CRUD_VS\\CRUD_VS\\MiAppCrud\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

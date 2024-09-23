@@ -8,8 +8,8 @@ namespace MiAppCrud
         public App()
         {
             InitializeComponent();
-
-            MainPage = new NavigationPage(new CategoriaListPage());
+            MainPage = new AppShell();
         }
     }
+
 }
